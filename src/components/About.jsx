@@ -231,7 +231,7 @@ const About = () => {
         </section>
       </div>
 
-      <div className="m-4">
+      {/* <div className="m-4">
         <section className="text-gray-400 body-font text-xl">
           <div className="container px-5 py-24 mx-auto">
             <div className="flex flex-wrap -m-4 text-center">
@@ -262,7 +262,7 @@ const About = () => {
             </div>
           </div>
         </section>
-      </div>
+      </div> */}
 
       <div className="m-4">
         <section class="text-gray-600 body-font">
